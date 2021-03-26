@@ -1,6 +1,6 @@
 # Drups.io Whitepaper
 
-Documentation for Drups.io built with [Sphinx](https://www.sphinx-doc.org).
+Document built with [Sphinx](https://www.sphinx-doc.org).
 
 ## Installation
 
