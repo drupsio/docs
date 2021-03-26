@@ -1,4 +1,4 @@
-# Drups.io Documentation
+# Drups.io Whitepaper
 
 Documentation for Drups.io built with [Sphinx](https://www.sphinx-doc.org).
 
