@@ -2,6 +2,9 @@
 
 Document built with [Sphinx](https://www.sphinx-doc.org).
 
+[![GitHub license](https://img.shields.io/github/license/drupsio/docs.svg)](https://github.com/drupsio/docs/blob/main/LICENSE)
+[![Documentation Status](https://readthedocs.org/projects/drupsio/badge/?version=latest)](https://drupsio.rtfd.io/)
+
 ## Installation
 
 ```shell
