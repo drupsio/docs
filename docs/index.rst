@@ -1,4 +1,4 @@
-Welcome to Drups.io's documentation!
+Drups.io Whitepaper
 ==================================================
 
 Contents:
